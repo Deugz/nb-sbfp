@@ -1,0 +1,12 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: Projects/Manifesto
+- file: Projects/Roadmap
+- file: Projects/Contribute
+- file: Projects/How_do/How_do_I
+- file: Projects/How_do/How_can_you
+
