@@ -3,10 +3,19 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: Projects/Manifesto
-- file: Projects/Roadmap
-- file: Projects/Contribute
-- file: Projects/How_do/How_do_I
-- file: Projects/How_do/How_can_you
+parts:
+  - caption: ""
+    chapters:
+    - url: https://deugz.github.io/sp-Science_Journey/build/html/index.html
+      title: "🏠 Home"
+  - caption: Science by & for People
+    chapters:
+    - file: Projects/Manifesto
+    - file: Projects/Roadmap
+    - file: Projects/Contribute
+  - caption: Guides
+    chapters:
+    - file: Projects/How_do/How_do_I
+    - file: Projects/How_do/How_can_you
+    - file: Projects/How_do/How_build
 

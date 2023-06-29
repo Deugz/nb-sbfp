@@ -1,4 +1,4 @@
-# **You** can interact
+# How can **You** interact
 
 > This website is aimed at everybody, and what you will get from it depends on who you are and what are **your aspirations** so first things first ...
 

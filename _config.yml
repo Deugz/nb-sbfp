@@ -56,3 +56,4 @@ sphinx:
   extra_extensions:
   - sphinx_design
   - sphinx.ext.intersphinx
+  - sphinx_new_tab_link
